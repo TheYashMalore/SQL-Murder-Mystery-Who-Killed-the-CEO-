@@ -21,7 +21,8 @@ I worked through multiple datasets to:
 ---
 
 ## 🖼️ Visuals
-/Screenshot 2025-11-28 223937.png
+<img width="964" height="530" alt="Screenshot 2025-11-28 223937" src="https://github.com/user-attachments/assets/24f9812e-14bc-4678-8904-a227784bd1d5" />
+
 ---
 
 ## 🧠 Investigation Steps
