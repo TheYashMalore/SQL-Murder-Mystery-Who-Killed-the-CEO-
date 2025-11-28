@@ -22,6 +22,18 @@ I worked through multiple datasets to:
 
 ## 🖼️ Visuals
 <img width="964" height="530" alt="Screenshot 2025-11-28 223937" src="https://github.com/user-attachments/assets/24f9812e-14bc-4678-8904-a227784bd1d5" />
+<img width="974" height="527" alt="Screenshot 2025-11-28 223958" src="https://github.com/user-attachments/assets/96c11535-6cf6-42b9-91d0-37617b14da5a" />
+<img width="967" height="593" alt="Screenshot 2025-11-28 224022" src="https://github.com/user-attachments/assets/9c69a3e6-8c12-4c02-a3d8-6cccfa4ff394" />
+<img width="973" height="529" alt="Screenshot 2025-11-28 224047" src="https://github.com/user-attachments/assets/8db12237-3ac1-41a5-84a0-c3e65aa8a4a4" />
+<img width="971" height="547" alt="Screenshot 2025-11-28 224113" src="https://github.com/user-attachments/assets/02d0e042-bd7e-48e3-b928-ad7bdbaeaf34" />
+<img width="954" height="533" alt="Screenshot 2025-11-28 224133" src="https://github.com/user-attachments/assets/611158f1-fa19-4073-8007-0f36a8dd18ea" />
+<img width="974" height="554" alt="Screenshot 2025-11-28 224153" src="https://github.com/user-attachments/assets/77cf2b6d-d958-4d7f-ab2b-f7f1ffa82286" />
+<img width="967" height="530" alt="Screenshot 2025-11-28 224213" src="https://github.com/user-attachments/assets/8d0ea18d-da8f-4c70-8e62-8da5dc17f956" />
+<img width="971" height="547" alt="Screenshot 2025-11-28 224233" src="https://github.com/user-attachments/assets/fc2eeae6-a7d2-4eeb-a1b6-5f519bc11aaa" />
+<img width="974" height="574" alt="Screenshot 2025-11-28 224253" src="https://github.com/user-attachments/assets/a116aaba-4a4a-4552-a7ca-76c15c490fb2" />
+<img width="967" height="579" alt="Screenshot 2025-11-28 224318" src="https://github.com/user-attachments/assets/a8e4f284-b394-4a93-8968-6b76be48d756" />
+<img width="953" height="656" alt="Screenshot 2025-11-28 224346" src="https://github.com/user-attachments/assets/9bd5253b-7f2f-4fd7-be6a-6d5dca8b3fd6" />
+
 
 ---
 
